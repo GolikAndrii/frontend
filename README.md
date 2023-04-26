@@ -1,1 +1,1 @@
-# Lessons and Homeworks for Front-End kurse
+# Lessons and Homeworks for Front-End curse
